@@ -5,5 +5,7 @@ nav {
 border: 3px solid black;
 }
 header {
+    border-radius: 10px;
     text-align: center;
+    height: 50px;
 }
